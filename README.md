@@ -1,16 +1,23 @@
-## Hi there 👋
+# Александр Широков
 
-<!--
-**aeronkelleer/aeronkelleer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer · React · Next.js · TypeScript**
 
-Here are some ideas to get you started:
+Занимаюсь коммерческой frontend-разработкой с 2023 года. Разрабатываю интерфейсы на React и Next.js, использую TypeScript, Redux Toolkit и SCSS Modules.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Уделяю внимание архитектуре компонентов, переиспользуемости кода и поддерживаемости проектов.
+
+## Tech Stack
+
+- **Languages:** JavaScript, TypeScript, HTML
+- **Frontend:** React, Next.js
+- **State Management:** Redux Toolkit
+- **Styling:** SCSS, CSS Modules
+- **Tools:** Git, Vite
+
+## Projects
+
+В процессе подготовки.
+
+## Contact
+
+- **Portfolio:** ссылка на твой сайт-портфолио
